@@ -1,1 +1,1 @@
-# logiccomp---projects
+# logiccomp---project
